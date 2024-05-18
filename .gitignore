@@ -9,3 +9,6 @@ Lib/
 Scripts/
 share/
 pyvenv.cfg
+
+# Do not include generated files.
+*.gif
